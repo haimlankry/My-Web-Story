@@ -1,6 +1,6 @@
 ## My Web Story
 
-# the evolution of the web thru my eye as a web developer
+# the evolution of the web through my eye as a web developer
 
 I've started to look for my next framework, environment, language... for web application development.
 after meny years using Microsoft Visual Studio, coding c#, asp.net for IIS & MS-SQL on windows machines, i'm looking for an open-source solution.
@@ -16,12 +16,12 @@ But the basic architecture did not chage, Microsoft ASP.NET (web forms) was stil
 Since then, more and more open source liberaries take segnifent part on both client side and server side and Microsoft release MVC and other open source inspired or combinde starterkits and good solutions like web api.
 
 The old school archetecture was to render the HTML for every click, and then load the complate page.
-The new archetecture is a Single Page client Application project (Server Side Sendering) that makes Http request for json/bson REST API from different sources, some public and some Token based - the SPA layout loaded only one time, and content change by replacing only the data inside selected layout commponent driven call back response or the user.
+The current archetecture is a Single Page client Application project (Server Side Sendering) that makes Http json/bson request to REST APIs from different sources, some public and some Token based - the SPA layout loaded only one time, and content change by replacing only the data inside selected layout commponent driven call back response or the user.
 
 
 
 
-Reading [this article](https://medium.com/@harryho2/angular-vs-react-vs-vue-f470f5b74bf6) and meny more 'VS' articles i've choose vue.js as my next front end technology.
+Reading [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/), [harryho article](https://medium.com/@harryho2/angular-vs-react-vs-vue-f470f5b74bf6) and meny more 'VS' articles i've choose vue.js as my next front end technology.
 
 
 
