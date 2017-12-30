@@ -11,8 +11,8 @@ server-side: Koa.js for REST API.
 In order to understend the current web technology arichtecture let's take a brief of the [evolution of the web](http://www.evolutionoftheweb.com) or "[FROM STATIC TO DYNAMIC](http://royal.pingdom.com/2007/12/07/a-history-of-the-dynamic-web)".
 
 My first serer side language was ASP3.
-Thing got match better when .NET born, the simple WS SOAP based integration, OOP, separation between layout and logic, but the basic architecture did not chage.
-Microsoft ASP.NET (web forms) was still postback based, witch mean low performence specially because the IIS renders the all page for every click.
+Thing got match better when .NET born, the simple WS SOAP based integration, OOP, separation between layout and logic was great!
+But the basic architecture did not chage, Microsoft ASP.NET (web forms) was still postback based, witch mean low performence specially because the IIS renders the all page for every click.
 Since then, more and more open source liberaries take segnifent part on both client side and server side and Microsoft release MVC and other open source inspired or combinde starterkits and good solutions like web api.
 
 The old school archetecture was to render the HTML for every click, and then load the complate page.
