@@ -15,6 +15,7 @@ Microsoft ASP.NET (web forms) was still postback based, witch mean low performen
 Since then, more and more open source liberaries take segnifent part on both client side and server side and Microsoft release MVC and other open source inspired or combinde starterkits and good solutions like web api.
 
 The old school archetecture was to render the HTML for every click, and then load the complate page.
+The new archetecture is a Single Page client Application project (Server Side Sendering) makes Http request for json/bson REST API from different sources, some public and some Token based.
 
 
 
