@@ -8,7 +8,7 @@ I desided that my next fullstuck template will be node.js based.
 front-end: Vue.js [Shell](https://developers.google.com/web/updates/2015/11/app-shell) that supports most [PWA](https://developers.google.com/web/progressive-web-apps/) features on client side.
 server-side: Koa.js for REST API.
 
-In order to understend the current web technology arichtecture let's take a brief of the [evolution of the web](http://www.evolutionoftheweb.com) or {"FROM STATIC TO DYNAMIC"](http://royal.pingdom.com/2007/12/07/a-history-of-the-dynamic-web)
+In order to understend the current web technology arichtecture let's take a brief of the [evolution of the web](http://www.evolutionoftheweb.com) or "[FROM STATIC TO DYNAMIC](http://royal.pingdom.com/2007/12/07/a-history-of-the-dynamic-web)"
 My first serer side language was ASP3.
 Thing got match better when .NET born, the simple WS SOAP based integration, OOP, separation between layout and logic, but the basic architecture did not chage.
 Microsoft ASP.NET (web forms) was still postback based, witch mean low performence specially because the IIS renders the all page for every click.
