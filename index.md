@@ -21,7 +21,7 @@ The current archetecture is a Single Page client Application project (Server Sid
 
 
 
-Reading [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/), [harryho article](https://medium.com/@harryho2/angular-vs-react-vs-vue-f470f5b74bf6) and meny more 'VS' articles i've choose vue.js as my next front end technology.
+Reading [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/), [harryho article](https://medium.com/@harryho2/angular-vs-react-vs-vue-f470f5b74bf6), https://www.academind.com/articles/javascript/angular-vs-reactjs-vs-vuejs/ and meny more 'VS' articles i've choose vue.js as my next front end technology.
 
 
 
